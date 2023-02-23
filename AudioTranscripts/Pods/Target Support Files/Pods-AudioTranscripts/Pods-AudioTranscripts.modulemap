@@ -1,0 +1,6 @@
+framework module Pods_AudioTranscripts {
+  umbrella header "Pods-AudioTranscripts-umbrella.h"
+
+  export *
+  module * { export * }
+}

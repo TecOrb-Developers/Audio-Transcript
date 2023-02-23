@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-AudioTranscripts/Pods-AudioTranscripts-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BMPlayer/BMPlayer.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework

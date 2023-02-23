@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="jrr-h0-wMK">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="AudioTranscripts" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Q49-iL-J1I" customClass="BMCustomPlayer" customModule="AudioTranscripts" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="64" width="390" height="250"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="250" id="Bfr-dO-kRr"/>
+                                </constraints>
+                            </view>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="justified" translatesAutoresizingMaskIntoConstraints="NO" id="pMp-Px-WcX">
+                                <rect key="frame" x="0.0" y="314" width="390" height="496"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <string key="text">"闪电侠" "超女"前情回顾
+Previously on "The Flash" and "Supergirl"...他怎么了
+What just happened to him?沃利就在神速力接我的班
+Wally has taken my place in the Speed Force.没事了 我们回家了
+It's okay, we're going home.沃利看到的 够他好受一阵了
+What Wally saw, it's gonna haunt him for a while.我以为向你求婚就可以救你
+I proposed because I thought it would save you.-什么意思  -我觉得我们要分开一段时间
+- What does that mean? - I think we need some space.我欠你一个真相 我叫蒙-艾尔
+I owe you the truth. My name is Mon-El.达星以前的王子
+I'm the former Prince of Daxam.我不应该被人蒙在鼓里
+I deserve better than being lied to.我一直在找你
+I've been looking for you.再见
+Toodles!我就说
+I told you.歌声往往更动听
+Everything's better in song.简单的几个词语
+When you speak, it's just words.歌唱时却能让你放飞灵魂
+But when you sing, you open up your soul展现你自己独一无二的闪光点
+and let who you really are shine through.谢谢你 妈妈
+Thanks, Mom.我爱你 宝贝儿子
+Hmm. I love you, my beautiful boy.我也爱你
+I love you too.♪ 我又重获笑颜 ♪ 
+♪ I'm happy again ♪♪ 我嘲笑那乌云 ♪ 
+♪ I'm laughing at clouds ♪♪ 如此阴暗遮住天空 ♪
+♪ So dark up above ♪这...
+This...又看《雨中曲》
+again?你是打算在沙发里
+What, are you gonna spend the rest of your life窝一辈子吗 快起来
+sitting around on the couch? Come on.你已经看了好几天了 起来嗨
+You've been doing this for days. Let's do something.-出去逛逛吧  -不要 我不去
+- Let's go out. - No, man, I'm sorry.我... 我不想出去
+I... I don't feel like going out.你这几天看音乐剧入迷啦
+What is it with you and musicals these days anyhow?歌声往往更动听
+Everything's better in song.听我说
+Listen, dude,我知道 爱瑞斯解除婚约
+I know you've been going through a tough time你现在心里正难受
+since Iris broke off the engagement,-应该说...  -什么
+- or, I guess... - What?... 严格来说 是你解除婚约
+... technically, since you broke off the engagement.总之不管谁解除的
+Whoever broke off the engagement,都一样 我只是...
+it doesn't matter, I just...我只是想帮你
+I don't know, man. I want to help.你其实帮不到我
+Nothing you can really do.真的吗 那我只好让...
+Really? I guess I'm just gonna have to let...吉恩·凯利先生[好莱坞歌舞片巨星]来了
+Mr. Gene Kelly take over谁知道呢 我啥也做不了不是 
+'cause, Lord knows, I can't do anything about that.-是小哈  -我也收到了
+- It's H.R. - Yeah.小巴
+B.A.,有朋自远方来
+someone's coming through.可能是吉普赛
+Could be Gypsy.有可能 也许是...
+Could be, or it could be...超女
+Supergirl?卡拉...
+Kara...-她怎么了  -我们也不知道
+- What happened to her? - We don't know,但始作俑者也来到这个星球了
+but whoever did it has come to this world.生命体征微弱
+Her vitals are low.她昏厥多久了
+How long has she been like this?几个小时
+A few hours.我们一定要找到罪魁祸首
+Okay, we need to find whoever did this to Kara一顿暴走 直到他跪地求饶
+and punch him repeatedly until he reverses收回咒语 唤醒卡拉
+whatever spell he put on her,而且我要第一个揍他
+and I get to punch him first.你到底是谁
+Who are you exactly?我叫蒙-艾尔
+My name is Mon-El.我是... 我是卡拉的...
+I'm... I'm Kara's...朋友
+friend.我们... 友达以上
+We're more... more than friend.时不时亲个小嘴儿
+We've been kissing a lot.她可没说自己有个男朋友
+Oh, she never mentioned she had a boyfriend.最近的事儿 所以...
+It's a recent thing, so...你俩不是分手了吗
+I thought you two broke up.我插一句 尽量别提分手俩字
+I tell you what, I know enough not to mention尤其当着巴里和... 那谁...
+the break-up between Barry and... uh...-小哈  -对不起
+- H.R. - Sorry.不管我跟卡拉之间发生了什么
+Look, hey, whatever's going on between me and Kara,我也不能让她不省人事
+I cannot leave her like this, okay?-我要救她  -我们会救她的 我保证
+- I need to get her back. - We will, I promise.所以她到底怎么了
+So what happened to her?一名外星囚犯逃出监守所
+An alien prisoner escaped our custody.不知道耍了什么把戏 让卡拉晕厥
+He did something to her, put her in some kind of a coma.然后就消失了
+And then he disappeared.我们一路跟踪他到这
+We tracked him here and followed.他为什么来这里
+Okay, but why would he come to this Earth?我们觉得... 是冲你来的
+Well, we believe... for you.-我吗 为什么  -不知道
+- Me? Why? - We don't know.可他走前撂了一句
+But his last words before he disappeared说要去找速度最快的人
+were about finding the fastest man alive.当务之急就是要把这时空穿梭者抓出来
+Okay, well, clearly, we're talking about a breacher here.我唯一擅长的
+And if there's one thing I can do,也就找穿梭者了
+it's find breachers.还有什么细节吗
+So what else can you tell us about this guy?不是很多
+Not much.他来去无踪
+It's like he just materialized out of thin air.你说的是他吗
+You mean like this clown just did?我去
+I'm gonna go.华莱士...
+Wallace...我知道你现在也不好受
+I understand what you've been through.困在神速力里 不断经历痛苦... 我能理解
+Stuck in the Speed Force, things you saw... I get it.我也知道俗话说得好
+I also know that sometimes, the old adage is true.你摔下马时
+When you get bucked from the horse,唯一能做的...
+best thing you can do...就是爬上去
+get right back on the damn thing征服它 华莱士
+and ride, Wallace.征服
+Ride!你好啊 巴里·艾伦
+Hello, Barry Allen.-你是怎么...  -知道你名字吗
+- How do you... - Know your name?我知道的多了去了
+I know a lot of things.而且我无所不能哦
+And I can do a lot of things too.沃利·韦斯特也来了啊
+Wally West made it here too.真激动人心
+This is exciting.欢迎你也来参加这次派对 闪电小子
+It's good of you to join the party, Kid Flash.热烈欢迎你
+I'm happy to have you.你对超女做了什么
+What do you want with Supergirl?马上就知道了
+Same thing that I want with both of you.给你们上一课
+To teach you all a lesson.你就这点能耐吗 闪电小子
+Is that all you got, Kid Flash?看起来有点紧张啊
+I mean, you look a little scared.你太慢了
+And you're too slow.晚安 闪电侠
+Nighty-night, Flash.-♪ 月亮... ♪  -什么鬼
+- ♪ Moon... ♪ - What the hell?♪ 河 ♪ 
+♪ River ♪♪ 绚丽水镜铺满千里 ♪ 
+♪ Wider than a mile ♪♪ 也许有天... ♪ 
+♪ I'm crossing... ♪卡拉
+Kara?♪ 我将遇见你 ♪ 
+♪ You in style someday ♪♪ 织梦的河啊 ♪ 
+♪ Oh, dream maker ♪♪ 碎梦的河啊 ♪ 
+♪ You heart breaker ♪♪ 不论你流向何方 ♪ 
+♪ Wherever you're going ♪♪ 我都会 ♪ 
+♪ I'm going... ♪♪ 随你而去 ♪ 
+♪ Your way ♪♪ 共同漂泊 ♪ 
+♪ Two drifters ♪♪ 欣赏大千世界 ♪ 
+♪ Off to see the world ♪♪ 世界的精彩绚烂 ♪ 
+♪ There's such a lot of world ♪♪ 等着我们去发现 ♪ 
+♪ To see ♪♪ 我们追逐 ♪ 
+♪ We're after ♪♪ 同一道... ♪ 
+♪ The same... ♪♪ 彩虹的尽头 ♪ 
+♪ Rainbow's end ♪♪ 静静在弧线上等待 ♪ 
+♪ Waiting 'round the bend ♪♪ 那有我可爱的朋友 ♪ 
+♪ My huckleberry friend ♪♪ 月亮河 ♪ 
+♪ Moon river ♪♪ 与我... ♪ 
+♪ And me... ♪唱得真棒
+What a singer, huh?-对  -你认识她吗
+- Yeah. - You know her?对 我认识
+Yeah, I do.女士们先生们...
+Ladies and gentlemen...-巴里  -嘿
+- Barry? - Hey!巴里 真的是你 感谢上帝
+Barry! It's you, thank Rao!等等 真是你吧
+Oh, wait, it's really you, right?-对 是我  -很好
+- Yeah, this is me, yeah. - Good.我们到底在哪 发生什么了
+What is... where the hell are we? What's going on?我还想问你来着
+I was hoping you could tell me为什么我穿得跟奥黛丽赫本一样
+or maybe explain to me why I just pulled an Audrey Hepburn在夜店唱歌呢
+and sang in a nightclub.-咱俩是在做梦吗  -还是同一个梦
+- Maybe we're dreaming? - The same dream?对 真是... 在你来这之前
+Yeah, that's... What's the last thing you remember做的最后一件事是什么
+before you got here?我在超常行动部
+I was at the D.E.O.他们带来一名外星囚犯
+They had just brought in an alien prisoner.他逃了 然后...
+He got loose, and...很奇怪 他有那个红色...
+it was really weird. He had this, um, red...-手帕  -对
+- ... Pocket handkerchief? - Yes!你在我星球上 昏迷不醒
+I saw you on my Earth. You were in a coma.你男朋友带你来找我们
+Your boyfriend brought you to us.他不是我男朋友
+He is not my boyfriend.他... 就是个毛小子
+He... he's just a boy.也不是我朋友
+Who is not my friend.-啥都不是  -好吧
+- He's my nothing. - Okay.不管他是谁
+All right, uh, well, whoever he is他说有人迷晕了你
+said that this guy whammied you,然后逃到我们星球 接着出现在科学之星实验室
+and then he escaped to my Earth, he showed up at S.T.A.R. Labs,我去追他 想让他把你叫醒
+I went after him to try to get him to wake you up...-然后你就被迷晕了  -是的
+- And then you got whammied. - Yeah.-所以我们现在在哪  -我也不知道
+- So where are we? - I don't know.也许是平行时空 或者是...
+I mean, it could be a parallel dimension, or...复杂的幻想
+maybe just some elaborate illusion.我们得想个办法
+We just need to figure a way out.也许脚跟碰三下就行了[绿野仙踪]
+I guess I could click my heels together three times.-有道理  -我开玩笑呢
+- Yeah... - I was kidding.这样啊 好的...
+Okay, all right, well...快来
+Come on. Let's...顺便啰嗦一句 你唱歌真好听
+You're a really good singer, by the way.谢了 我姐姐说我名字就取的卡拉ok前俩字
+Hey, thanks. My sister says I put the "Kara" in "karaoke."你们在这
+There you are!梅林...
+Merlyn...-谁  -你说谁
+- Who? - Who?马尔科姆·梅林 刺客联盟前头领
+Malcolm Merlyn. Former head of the League of Assassins.什么的什么
+The what of the what?你俩臭小子说什么呢
+What the hell you talking about, kid?我叫砍特·莫兰 夜店老板
+My name's Cutter Moran, I own this club,你们俩都是我员工
+and both of you work for me.我们什么
+We what now?我花钱请你唱歌 没让你问问题
+I pay you to sing, not pepper me with questions.我希望你好好选歌
+And I hope you got something better in your songbook而不是在那引吭高歌 金发妞
+than what you were belting out up there, blondie.别叫我金发妞
+Hey! Don't call me blondie.我不知道你是谁...
+Hey, look, I don't know who you are...原来是小刀无影手
+obviously you're someone who's quick with a knife.请原谅我朋友 他说话不过脑
+You have to excuse my friend. He doesn't think before he talks.我侄子也那样
+Yeah, I had a cousin like that.我就割断了他的喉咙
+I had to slit his throat too.格雷迪 让他俩准备一下
+Grady! Get these two set up.我想听点新歌
+And nothing I've heard before.原创歌曲
+I want something original.巴里 我失去超能力了
+Barry, I don't have my powers.我也是
+Me neither.维恩
+Winn!维恩 你也吗
+Winn, you're here too?谁是维恩 我叫格雷迪
+Ah! Who's Winn? The name is Grady.我是弹钢琴的
+I tickle the keys around here.你知道他为什么叫“砍爷”吗
+Say, you realize how he got the nickname "Cutter," don't you?-不知道  -因为他喜欢砍人
+- No. - Because he likes to cut people.还是问我吧 他会一直唠下去
+You ask me, I think he's all talk.西斯科 不是西斯科 你好
+Cisco... not Cisco. Hello.我保证 总有一天
+I pray that, one day, you do not find out你会发现自己大错特错 帕布洛
+how very, very wrong you are, Pablo.-干你的活去吧  -好吧
+- Now go do your job. - All right.格雷迪不知道 不过总有一天
+You see, Grady doesn't know this, but one day,我会出人头地
+I'm gonna be somebody.一定会的 而且就在
+I'm gonna be somebody, and it's gonna happen那舞台上大放光彩
+right there on that stage.等着瞧 只消一个契机
+You'll see. I just need my one shot.真是越来越有趣了
+It's just curiouser and curiouser.是啊 好像"绿野仙踪"
+Yeah, yeah, it's like "The Wizard of Oz."-是的  -"你在这里
+- Yeah. - "And you were there,-"又在那里"  -不过他们不是真的
+- "and you were there...." - Except, it's not really them.他们都是音乐剧里的...
+They're all playing characters in a...... 角色
+... Musical.巴里 我们到底在哪
+Barry, where are we?不知道
+I don't know.要知道人们常说...
+Well, you know what they say...演出还得继续
+the show must go on!超女 我喜欢你唱的"月亮河"
+Supergirl, I loved your rendition of "Moon River,"多美的一首歌
+such a beautiful song.有几处唱得很平淡
+You were a little flat in places,但你在台上太可爱了让我不愿打断
+but I'm willing to let it slide just because you're so cute.-等等 你对我们干了什么  -也没什么
+- Hold on. What did you do to us? - Oh, nothing much.不过在你们心中放了一首歌
+Just put a little song in your heart.放了一首...
+Put a little...你为什么带我们来这
+Why did you bring us here?我没带你们去哪儿
+I didn't bring you anywhere.我们在你们脑海里
+We're inside your heads.你们创造了这个世界
+You created this world.算我们幸运 这里也许是战争电影
+And we got lucky because it could have been a war movie或是... 太空歌剧
+or a... a space opera,{\an8}以太空旅行为主题的广播剧 电视剧 电影但还好你们都热爱歌舞片
+but thanks to your love of musicals,你看过无数次"绿野仙踪"
+with the countless times you watched, um, "Wizard of Oz"-和你的养父母一起...  -你怎么知道
+- with your adoptive parents... - How did you know that?还有你 每个雨夜都和妈妈
+And, you, all those rainy nights看弗雷德·阿斯泰尔和弗兰克·辛纳屈的电影
+watching Fred Astaire and Frank Sinatra with Mom.{\an8}两人均为著名歌手 演员难怪是歌舞片
+Well, where else would we be?好吧 好吧
+All right, all right.一击不中
+Ooh! Swing and a miss.我还没说
+I didn't tell you.我本人不在这
+I'm not really here.我还在现实世界
+See, I'm out there in the real world.中心城现在是我的囊中之物
+Central City's mine for the taking.-我们会阻止你  -没错
+- Ah. We're gonna stop you. - Yeah!放马过来
+You're welcome to try that.前提是你们能从这逃出去
+If you can get out of here.我们要怎么逃出去
+How do we get out of here?你们身处一部歌舞片
+You're in a movie musical.所以只要跟着...
+So all you have to do is just follow the...黄砖路[出自绿野仙踪]
+The Yellow Brick Road?不... 是剧本
+No, the... the script.-啊 对  -剧本...
+- Oh, yeah. - Script...剧情结束后
+Reach the end of the plot,妈咪妈咪哄 你们就能回家了
+and, presto chango, you get to go home.不过有件事还得说一下...
+One little detail, though, I should mention...在这里死掉 现实世界你们也活不了
+if you die in here, you die out there.真棒
+Lovely.我简直受够这种魔法怪胎了
+I've reached my limit with magical creeps.现在 我希望你们准备好
+In the meantime, I hope you're both ready放声高歌一曲了
+to get the rust off those pipes of yours.-我们不会为你唱歌  -不会
+- We're not singing for you! - No.永... 永远不会 我是说
+Uh, any... anymore, I mean.来吧 说不定一首
+Come on, now, maybe just one little-有趣的开场小曲能...  -把外套穿上
+- fun opening number just to... - Leave your jacket on.-...让好戏上演  -外套哪去了
+- ... kick things off! - Where did it go?♪ 多关心你的同伴 ♪
+♪ Think of your fellow man ♪-停下  -我们不会唱的
+- Stop that. - It's not happening.♪ 常向他施以援手 ♪
+♪ Lend him a helping hand ♪-没用的  -我们不唱
+- It's not gonna work. - We're not singing!♪ 献出心里的一份爱 ♪
+♪ Put a little love in your heart ♪♪ 你瞧时候不早了 ♪
+♪ You see it's getting late ♪♪ 没时间犹豫了 ♪
+♪ Oh, please don't hesitate ♪♪ 献出心里的一份爱 ♪
+♪ Put a little love in your heart ♪♪ 全世界 ♪
+♪ And the world ♪-♪ 全世界... ♪  -♪ 会成为美好人间 ♪
+- ♪ The world... ♪ - ♪ Will be a better place ♪-♪ 全世界 ♪  -♪ 全世界... ♪
+- ♪ And the world ♪ - ♪ The world... ♪♪ 会变成美好人间 ♪
+♪ Will be a better place ♪♪ 因为你 ♪
+♪ For you ♪♪ 还有我 ♪
+♪ And me ♪♪ 稍加等待 ♪
+♪ You just wait ♪♪ 就能发现 ♪
+♪ And see, yeah ♪♪ 若想让世人知道 ♪
+♪ If you want the world to know ♪♪ 我们不让仇恨滋长 ♪
+♪ We won't let hatred grow ♪♪ 献出心中一份爱 ♪
+♪ Put a little love in your heart ♪♪ 全世界 ♪
+♪ And the world ♪♪ 将变成美好人间 ♪
+♪ Will be a better place ♪♪ 全世界 ♪
+♪ And the world ♪♪ 将变成美好人间 ♪
+♪ Will be a better place ♪-♪ 因为你 ♪  -♪ 因为你 ♪
+- ♪ For you ♪ - ♪ For you ♪-♪ 还有我 ♪  -♪ 还有我 ♪
+- ♪ And me ♪ - ♪ And me ♪♪ 稍加等待就能发现 ♪
+♪ You just wait and see ♪♪ 你最好瞧一瞧周围 ♪
+♪ You better take a good look around ♪♪ 若你正低着头 ♪
+♪ Oh, if you're looking down ♪♪ 献出心里的一份爱 ♪
+♪ Put a little love in your heart ♪♪ 全世界 ♪
+♪ And the world ♪♪ 将变成美好人间 ♪
+♪ Will be a better place ♪-♪ 全世界 ♪  -♪ 全世界 ♪
+- ♪ All the world ♪ - ♪ All the world ♪♪ 将变成美好人间 ♪
+♪ Will be a better place ♪-♪ 因为你 ♪  -♪ 因为你 ♪
+- ♪ For you ♪ - ♪ For you ♪-♪ 还有我 ♪  -♪ 还有我 ♪
+- ♪ And me ♪ - ♪ And me ♪♪ 稍加等待就能发现 ♪
+♪ You just wait and see ♪♪ 献出心中一份爱 ♪
+♪ Put a little love in your heart ♪♪ 献出一份爱 献出一份爱 ♪
+♪ Put a little love, put a little love ♪♪ 献出心中一份爱 ♪
+♪ Put a little love in your heart ♪♪ 献出心中一份爱 ♪
+♪ Put a little love in your heart ♪♪ 献出一份爱 ♪
+♪ Put a little love ♪♪ 献出心中一份爱 ♪
+♪ Put a little love in your heart ♪♪ 一起来... ♪
+♪ Come on and... ♪♪ 献出心中... ♪
+♪ Put a little love... ♪♪ 一份爱... ♪
+♪ In your heart... ♪他去哪了
+Where'd he go?不知道
+I don't know.走 我们去找他
+Come on, let's find him.-他消失了  -没错
+- He's gone. - Yup.-现在怎么办  -不知道
+- So what do we do now? - I don't know.大概只能...
+I mean, I guess we just...照他说的做
+we do what he says, right?我们得弄清楚这部歌舞片的剧情
+We have to figure out what the plot of the musical is,-跟着故事演下去  -好吧 那...
+- and we follow the story. - Okay, uh, so...我们现在什么设定
+what do we know so far?我们是卖唱的
+We're singers.而且老板是黑社会
+And apparently we work for a gangster.没错 还要我们为他单独表演
+Yes, who wants us to perform for him.老实说 也没那么难懂
+I mean, honestly, it's pretty straightforward.-是吗  -对啊
+- Right? - Yeah.你们好
+Hello.你们好 我想念刀枪不入的超能力
+Hi! I miss being bulletproof.-跟我们走  -谁说的
+- You're coming with us. - Says who?我说的
+Says me.巴里 你没事吧
+Barry, are you okay?天啊 快别喊了
+Oh, please stop yelling.我没喊啊
+I'm not yelling.等等 我们这是在哪儿
+Wait, where are we?我也不知道
+I don't know.好吧 别担心 我相信科学之星实验室的每个人
+All right, well, I'm sure everybody at S.T.A.R. Labs都在想办法救我们出去
+is working on getting us out of this.是啊 多亏他们带我来你的地球
+Yeah, I'm glad they brought me to your Earth.蒙-艾尔看起来真的很在乎你
+Mon-El seems like he really cares about you.蒙-艾尔只在乎他自己
+Mon-El only cares about himself.我们认识9个月他都没告诉我
+He lied to me about who he really is他的真实身份
+for nine months.我没办法原谅他
+I can't shake it.我以为我们会是那种特别的关系
+I thought it was gonna be something special像你和爱瑞斯一样
+like what you have with Iris.我们...
+That is...分手了
+off track.抱歉
+I'm sorry.我向她求婚了
+I asked her to marry me.真的吗 太好了
+You did? That's great.她肯定同意了吧
+Did she not say yes?是啊 她是同意了 不过我向她求婚的理由
+Oh, she said yes, but I guess I did it不是很正当 我当然是爱她的
+for the wrong reason, and, I mean, I love her,不过我向她求婚是为了要改变未来
+but I was trying to change the future.后来就分开了 想专心救她
+Then I pushed her away so I could focus on saving her,现在简直是一团乱
+and it's just a mess now.还是跑步简单啊
+Everything's so simple when I'm running.飞行也不难
+Or flying.闭嘴
+Shut up!你们俩都给我闭嘴
+Both of you.斯坦因
+Stein?谁... 谁是斯坦因
+Who... who's Stein?对 你不是
+Right.-这就是他们  -没错
+- This them? - Yeah.你知道我是谁吗
+Do you know who I am?反正不是乔·韦斯特
+Not Joe West, I'm guessing.狄格西 狄格西·福斯
+Digsy. Digsy Foss.这城是我的
+I run this town.那你是市长咯
+So you're the mayor?市长虽然赢了选举...
+The mayor may have gotten the vote...不过实权在我手里
+but I got the power.我现在遇到点麻烦...
+I got a situation...你们两个要帮我解决好
+that you two are gonna help me with.-为您办事 荣幸之至  -非常乐意
+- We would love to help you with it. - Really love to.我的女儿 米莉...
+My daughter, Millie...失踪了
+she's missing.最后出现在
+Last she was seen,去往砍特·莫兰夜店的路上
+she was heading into Cutter Moran's place.你们见到她了吗
+Have you seen her in there?-米莉 你是说她叫米莉吗  -是啊 怎么了
+- Millie, did you say? - Yeah. Why?我从没见过她 我没见过她
+We haven't seen her. I haven't seen her.-我没见过她  -是啊 我们...
+- I haven't seen her. - Yeah, we...她是我这一生...
+She's the only thing that is good and decent...唯一的美好
+about my life.如果她有什么三长两短
+If anything happened to her,我就让整个城给她陪葬
+this town will run red with blood.用你俩祭旗
+Starting with yours.我们可不想送死 是吧
+We wouldn't want that, now, right?那我们该如何帮你
+So, um, how can we help you?你俩是砍特的歌手吧
+You two sing for Cutter.-我们是  -是的 我们是
+- We sure do. - Yes, we do.你们到处走走 看能不能找到她
+You could poke around and see if you can find her.你们会帮我吧
+So are you gonna do this for me?怎么办啊
+What do we do?跟着剧本走
+Follow the script.-我们会找到她的 先生  -没错
+- We're gonna find her... sir. - Mm-hmm.很好
+Good.好了
+Okay.就是这儿
+This is the place.4B房间
+Apartment 4B.爱瑞斯就在这儿吗
+This is where we can find Iris?-米莉  -对 米莉
+- Millie. - Millie, right.没错 她就在里面
+Yeah, she's in there, all right.你们两个听着
+Now, you two listen to me.别告诉任何人是我带你们来的
+Don't you go telling anyone I showed you this.当然了 我们保证
+Oh, yeah, we promise.聪明人不用多说
+Word to the wise.你们要还想趟这浑水的话...
+You go digging around in this dirt...可别被门内的场景吓着
+you might not like what you find.好的
+Okay.好了 记住 她或许看起来很像爱瑞斯
+Okay, so remember, she might look like Iris,但她不是
+but she is not Iris.我知道 这一定会很奇怪
+I know. This is gonna be weird.可不是嘛
+Yeah, tell me about it.算我走运 没碰上长得像蒙-艾尔的人
+I'm glad we haven't seen someone that looks like Mon-El.不然我可能真要揍他一拳玩玩儿
+I'd probably just punch him in the face for the fun of it.哦 天啊
+Oh, my God!是她
+That's her.她好像有麻烦了
+Sounds like she's in trouble.好了 往后点 我要破门而入了
+Here, stand back, I'm gonna kick the door in.你往后点 我来踹门
+You stand back, I'll kick the door in.我没有性别歧视你
+Well, I didn't mean, like, a gender thing.-我只想踹门而已  -巴里
+- I just wanted to kick it in... - Barry!好吧 一起 总行了吧
+All right, together. All right?-一 二  -三
+- One, two... - Three!这是什么鬼
+What the hell is going on?好吧 被你们抓到了
+All right, you caught us.我们谈恋爱了
+We're in love.太恶心了
+Ugh, gross.伙计们 我们有麻烦了
+Guys, we have a problem.好吧 是个新麻烦
+Well, another problem.巴里细胞中的神速力
+The Speed Force levels in Barry's cells严重减少
+have been severely depleted,卡拉身体里的太阳辐射也是
+as has the amount of solar radiation in Kara's body.这是什么意思
+What exactly does that mean?他们的能力在消失
+They're being drained.把他们迷晕的人...
+The guy who did this to them...他是在偷取他们的能力
+I think he's stealing their powers.能力启动
+Power up.我们得把他抓住
+We gotta bring him in.不用 我自己去就行 
+No, not we... me.是我害的巴里被迷晕的
+I'm the reason Barry got whammied.不管输赢 我们都要同心协力 
+We win and we lose as a team.我跟你一起去 
+I'm coming with you.我也去
+I'm coming too.听我说 约翰
+Look, J'onn, uh,虽然我敬你是个特工
+I respect this whole special agent situation you got going on,但眼下这个局面需要
+but this problem right here needs someone with...绿皮肤穿超酷斗篷的人
+green skin and sick-ass cape.叫我火星猎人 
+Call me the Martian Manhunter.发现了吧 约翰其实是
+I think you'll find that J'onn's a lot more than...帅外惠中
+just a pretty face.伙计们 
+Guys!你好啊 
+Hello.巴里和卡拉的生命体征波动很大 
+Also, Barry and Kara's vitals are all over the place.我们走 
+Let's go.行动吧 
+All right.朋友们 你们好 
+Hello, friends!闪电小子
+Kid Flash.真高兴看到你来凑热闹
+Oh, I'm so glad you could join the party.我可是你的大粉丝 不过说实话
+I'm such a huge fan of your work, but I have to say,你最近的表现都不在状态
+recently, your work's been a bit off.你知道我在说什么吧 
+You know what I'm talking about?我猜神速力里发生的故事
+I think maybe it's just that you're a little scared...把你震住了
+from what happened in the Speed Force.对吧 
+Is that it?不对 
+No,我现在已经无所畏惧了 
+and I'm not afraid of anything.拭目以待吧 
+Prove it.西斯科 他们朝着第四大道和白杨路方向去了 
+Uh, Cisco, they're headed towards 4th and Aspen.收到
+Got it.这边走
+This way.接下来 约翰 
+All right, J'onn,要不要来个强强联手啊 
+how do you feel about a little one-two combo?我这就打开一个缺口 你做好准备
+I'm gonna open a breach, you be ready to hit something对准另一头全力出击
+really hard on the B-side.往死里打 我擅长 
+Hitting hard, I can do.沃利 准备好在地面发起攻击 
+Wally, get ready to do the same thing on the ground level.收到 
+Copy.动手 
+Now!做个好梦 
+Nighty-night.你是们谁啊 
+Hey, who are you?快说你们叫什么 
+Your names, now.我叫卡拉 他是巴里 
+I'm Kara. This is Barry.我们都在你父亲的夜总会唱歌
+We're singers at your dad's nightclub.是的 米莉 你父亲还以为你被绑架了 
+Yeah, Millie, your dad thinks you've been kidnapped.好吧 很明显他弄错了 
+Well, clearly he's mistaken.他特别想让你回家 
+He really wants you to come home.-听着 我才不会回去呢  -嗯哼 
+- Listen, I am never going back there. - Mm-mm.为什么不 没有地方比家更好 
+Why not? There's no place like home.汤米·莫兰在哪里 
+Tommy Moran...哪里就是家 
+is my home.再说了 要是老头子们撞破我们的恋情 
+And besides, if our geezers ever caught wind of this,肯定又是一场恶战
+they'd go to war.不只是我们的恋情要走向终结 
+It'd be the end of more than just us, huh?对 汤米说得没错 
+Yeah, Tommy's right.我们的父亲是死对头
+Our fathers hate each other.我们这是禁忌之恋
+Our love is forbidden.这就是"西区故事"[禁忌恋电影]的情节 
+This is just like "West Side Story."我觉得更像"异想天开"[音乐剧] 不过...
+I was thinking more "Fantasticks," but...听好了 重点就是
+Look, the point is...我们绝不会走漏风声 
+we ain't telling nobody nothing.你们也要守口如瓶 懂了吗
+And neither are you, capisce?懂了 
+"Capisce."能让我们单独聊聊吗 
+Can you give us a second?可以
+Sure.他说我们要按着剧本演 
+Okay, look, he says we need to follow the script.对吧 我们在歌舞剧里 
+Right? We're in a musical.我想着若是能说服他们 
+So I think if we convince them向各自的父亲坦白恋情 
+to tell their fathers that they're in love,也许我们就能从这里逃出去了 
+maybe that'll get us out of here.回去继续做...
+And back home to being...单身狗 真好...
+single, yay...至少我们俩能一起单 
+At least we'll be single together.这么说真的能安慰人吗 
+Has saying that ever made anyone feel better?不好说 
+Debatable.好了 听着...
+Okay, so look...你们的父亲都不是完美无缺 对吧
+your fathers aren't perfect, right?爱情也不是完美无缺 
+Love isn't perfect.不是 但是不能因为爱上一个人 
+No, but you can't let your love for somebody就为尚未发生之事而担惊受怕
+cause you to be afraid of what might happen.不论如何 好坏都要一起承受
+You gotta take the good with the bad, no matter what.-说的对  -这就意味着...
+- Right. - And that includes...要向你们的父亲坦白彼此之间的爱意 
+telling your fathers how you two feel about each other.好了 你说的有道理 
+All right, you make a convincing argument.-确实  -我们会去说 
+- You do. - We'll do it.我们会坦白恋情 不是吗 
+We'll tell them about us, right?好啊 我们现在就去 
+Well, we should go now.-哇 多谢啦 小子  -好吧 
+- Gee, thanks, kid. - Okay.-为了你  -谢谢你 
+- For you. - Thank you.好吧...
+Okay, uh...歌舞剧里说服人真是...
+convincing people in musicals is...-... 太太太容易了  -是啊 
+- ... really easy. - Yeah.希望从这里出去也这么容易
+Let's hope getting out of one is just as easy.看吧 
+Digsy!她回来了 
+She's back!谢天谢地你没事 
+Thank God you're safe.我当然没事啦 
+Oh, of course I'm safe.巴里和卡拉告诉我 你派他们去找我 
+Barry and Kara told me that you sent them to find me.我们都很担心你 
+We were concerned.老爸们 有什么好担心的啊 
+Dads, there's no reason to be concerned."老爸们"
+"Dads"?你有意见啊 
+You got a problem with that?没 
+No.我热爱歌舞剧 
+I love musicals, so...好吧 
+Okay...听我说 老爸们 有件事 
+Look, Dads, there's something that...我得告诉你们 
+I need to tell you.我谈恋爱啦 
+I'm in love!那个幸运的小子是谁啊 
+Who is the, uh... the lucky boy?汤米·莫兰
+Tommy Moran.你... 你是指砍特·莫兰的小子？
+You... you mean Cutter Moran's kid?老爸 听着 我们非常相爱
+Dad, look, we're in love.-真是见鬼  -他就是个小流氓
+- The hell you are. - He's a hooligan!他父亲是个流氓
+His father's a hooligan.他母亲是个... 
+His mother is...不要在女儿面前说
+Not in front of the girl.我不准你和他在一起
+And you're not loving that boy.你疯了吗
+Have you lost your mind?她是敌人的女儿
+She is the daughter of my enemy.狄格西·福斯就是个肮脏下流的无赖
+Digsy Foss is a dirty, rotten scoundrel,他女儿也不会是什么好东西...
+and the apple doesn't fall far from the tree...老爸 听我解释
+Dad, if you just let me explain.没什么好解释的 汤米
+There's nothing to explain, Tommy.我知道你一直有什么瞒着我
+I knew you were keeping something from me.没想到竟是这个
+I never imagined it was something like this!她不再是你们的小公主了
+She isn't your little girl anymore.她长大了
+Well, she isn't.她是个非常勇敢 强大的女人
+She's an incredibly brave, strong woman.只要你们认真看就能看到
+One look, and you can see that.她希望能和他在一起
+And she wants to be with him.不论告诉你们需要多大的勇气
+No matter how scared she was to tell you,不论和他在一起会有多么危险
+no matter how dangerous it is to be with him,最重要的是 他们与彼此在一起
+all that matters is, they're together.当你遇到这样的爱情
+And when you find a love like that, well...一定要紧紧握住它
+you gotta hold on to it.无论谁阻止你
+No matter who's trying to stop you.我对这点深信不疑
+That's clear to me now.我觉得你对你儿子有些太过严厉了
+I think you're being a little tough on your son.什么
+Excuse me?他为什么不马上告诉你 显而易见嘛
+Well, it's obvious why he didn't tell you right away.看看你现在的反应
+I mean, look at the way you're reacting.也许你只要静下心来... 听听他解释
+Maybe if you just listen and... and hear his reasons试着设身处地为他考虑...
+and try to see things from his point of view...也许... 也许你就能理解为什么
+maybe... maybe you'd understand why他从前会...
+he didn't tell you...瞒着你
+before now.宝贝女儿 这一切...
+Baby doll, it's just...你永远无法理解为人父亲的焦虑
+you'll never understand what it means to be a father.米莉 亲爱的 我们会一直照顾着你
+Millie, my darling, we've always taken care of you.我们只希望你幸福
+We just want you to be happy.♪ 沃尔福特 我可以祝福你 ♪ 
+♪ Velvet, I can wish you ♪♪ 大衣的衣领 ♪ 
+♪ For the collar of your coat ♪♪ 和美丽的笑容 ♪ 
+♪ And fortune smiling... ♪♪ 都与你随行 ♪ 
+♪ All along your way ♪♪ 除此之外 ♪ 
+♪ But more I cannot wish you ♪♪ 我希望你能找到真爱 ♪ 
+♪ Than to wish you find your love ♪♪ 属于你的真爱 ♪ 
+♪ Your own true love ♪♪ 今时今日 ♪ 
+♪ This day ♪♪ 曼森斯 我希望你 ♪  
+♪ Mansions, I can wish you ♪♪ 七个红衣男仆 ♪ 
+♪ Seven footmen, all in red ♪♪ 来回传着银盘子 ♪ 
+♪ And calling cards upon a silver tray ♪♪ 除此之外 ♪ 
+♪ But more I cannot wish you ♪♪ 我希望你能找到真爱 ♪ 
+♪ Than to wish you find your love ♪♪ 属于你的真爱 ♪ 
+♪ Your own true love ♪♪ 今时今日 ♪ 
+♪ This day ♪♪ 站在那 ♪ 
+♪ Standing there ♪♪ 凝视着你 ♪ 
+♪ Gazing at you ♪♪ 羊羔般的眼睛 ♪ 
+♪ With the sheep's eye ♪♪ 甘草般的牙齿 ♪ 
+♪ And a licorice tooth ♪♪ 音乐啊我希望你 ♪ 
+♪ Music I can wish you ♪♪ 在年轻时与快乐相伴 ♪ 
+♪ Merry music while you're young ♪♪ 年老时 ♪ 
+♪ And wisdom when your hair ♪♪ 与智慧为伍 ♪ 
+♪ Has turned to gray ♪♪ 除此之外我希望 ♪ 
+♪ But more I cannot wish you ♪♪ 你能找到真爱 ♪ 
+♪ Than to wish you find your love ♪♪ 属于你的真爱 ♪ 
+♪ Your own true love ♪♪ 今时今日 ♪ 
+♪ This day ♪♪ 羊羔般的眼睛 ♪ 
+♪ With a sheep's eye ♪♪ 甘草般的牙齿 ♪ 
+♪ And a licorice tooth ♪♪ 还有宽厚的臂膀 ♪ 
+♪ And the strong arms ♪♪ 带你远行 ♪ 
+♪ To carry you away ♪♪ 远行 ♪ 
+♪ Away ♪♪ 还有宽厚的臂膀 ♪ 
+♪ And the strong arms ♪♪ 带你... ♪ 
+♪ To carry you... ♪♪ 远行 ♪ 
+♪ Away ♪谢谢你和我们说实话 宝贝
+Thanks for telling us the truth, baby.我好爱好爱你们
+I love you both so much.我们也爱你
+We love you.谢了
+Thanks.好了...
+Okay...你想干嘛
+So what do you want to do?叫上兄弟们
+Gather up the boys.-要开战了  -我就知道
+- We're going to war. - I had a feeling.我很赞赏你的诚恳 儿子
+I appreciate your honesty, son.-谢谢 老爸  -过来
+- Thanks, Dad. - Come here.召集人手
+Get the boys.准备开战
+We are going to war.果然是我最希望
+if it isn't the two people见到的两个人
+I was hoping would visit me the most.马上叫醒他们
+Fix them. Now.抱歉 我做不到
+I'm sorry. I can't.如果你还希望在有生之年从这牢房里出去
+If you ever want to get out of that cell,那就赶紧叫醒他们
+that's exactly what you're gonna do.你没听懂
+You don't get it.你没明白 大个子
+You don't understand, big guy.这是没法改变的
+That's just not how it works.我也无能为力
+My powers don't work that way.什么意思 是你让他们变成这样的
+What do you mean? You're the one who did this to them.没错 但是...
+Yes, but...他们的命运
+they are the only ones that are in control现在由他们自己掌控
+of what happens to them now,就像你们两一样
+as are the two of you.我们 什么意思
+Us? What does that mean?你有...
+How much...多爱他 爱瑞斯
+do you love him, Iris?还有你 蒙·艾尔 你爱她吗
+And you, Mon-El, how much do you love her?所以问题就是
+So the question is:你们的爱能否强大到救出他们
+is that strong enough to save them?你们想让卡拉和巴里从那个世界回来
+You want Kara and Barry back from the world they're in,就凭自己的力量去救他们
+you can go get them yourselves.你们有那份力量
+You have that power.怎么做
+How?恕难相告 抱歉 你们得自己琢磨出来
+Ah, I can't tell you. Sorry, you gotta figure it out yourself.现在 如果你们不介意的话 我要在这个
+Now, if you don't mind, I'm gonna just chill金碧辉煌的小牢房里休息了
+in this wonderfully decorated little cell of yours.再见了 朋友们
+Bye, guys!祝你们好运 爱会告诉你们方法的
+Good luck. Love will find a way.你们可以做到的 爱的力量是无穷的
+You can do it. Power of love and all that.我们现在该做什么 我们让...
+What do we do now? We got...米莉和汤米...
+we got Millie and Tommy告诉了他们的父亲他们在一起了
+to tell their fathers that they're in love.虽然我知道是在歌舞剧里
+Which, I know we're in a musical and everything,但看见蒙·艾尔和别人在一起...
+but seeing Mon-El in love with someone else was...看着很不爽 我懂
+It was hard to watch. I know.不管了 我们现在...
+Anyway, I mean, what are we...怎么办 你觉得这所谓的...
+supposed to do? What do you think this...音乐大师到底要我们干嘛
+Music Meister needs us to do now?终于找到你们了
+Ah, there you are!准备好了吗
+You two ready?准备啥来着...
+Ready for...排练啊 笨蛋
+For rehearsal, you dolt.莫兰先生说你有很多原创歌曲
+Mr. Moran told me that you got more songs in your repertoire.我们要演完音乐剧
+We have to finish the musical.-是啊  -那你...
+- Yeah. - Uh, do you...你有原创曲子吗
+do you happen to know anything original?不骗你们
+As a matter of fact,我整天都在创作
+I've been working on something all day..-音乐剧里真轻松  -可不是
+- Things really are easier in musicals. - Yeah.开始
+All right.♪ 此时此刻 ♪
+♪ At times like these ♪♪ 生活受挫 ♪
+♪ When life is getting me down ♪♪ 世界看似要分崩 ♪
+♪ And the world seems like it's gonna end-ship ♪♪ 至少我还有支撑 ♪
+♪ There's at least one power ♪♪ 你我共所享 ♪
+♪ That we both still have ♪♪ 那正是... ♪
+♪ And that's the power of... ♪♪ 友谊的力量 ♪
+♪ Friendship? ♪跟我想一块儿了
+Yeah, that's exactly what I was gonna say.这节奏挺简单
+Yeah, it's an easy rhyme.♪ 我是你的超级朋友 ♪
+♪ I'm your super friend ♪♪ 你的超级朋友 ♪
+♪ Your super friend ♪♪ 你若有难时 ♪
+♪ I'll be there in the nick of time ♪♪ 我会来相帮 ♪
+♪ If you're ever in a spot ♪♪ 若是赶不上 ♪
+♪ And if you're not there in time ♪♪ 亦可跑回过去 ♪
+♪ You can just go back in time ♪♪ 再次出手相帮 ♪
+♪ And give it another shot ♪我再也不会穿回过去了
+I'm actually not supposed to do that anymore.好吧
+Oh, okay.继续唱
+Sing!♪ 我是你的超级朋友 ♪
+♪ I'm your super friend ♪♪ 超级朋友 ♪
+♪ Super friend ♪♪ 你若要人夸奖 ♪
+♪ When you need a compliment ♪♪ 我会不吝赞扬 ♪
+♪ I can rattle off a dozen ♪对了 不得不说 其实你不算很惊艳
+For instance, I have to say, I'm not impressed...♪ 不如你那表弟名声远扬 ♪
+♪ By your more famous cousin ♪谢了你了 从没人这么说
+Thank you! No one ever says that.他整天绷着脸说 "我是超人"
+Oh, he's all, like, "I'm Superman.♪ 我是你的超级朋友 ♪
+♪ I'm your super friend ♪♪ 你的超级朋友 ♪
+♪ Super friend ♪♪ 要说谁是好兄弟 那就非你莫属 ♪
+♪ When it comes to buddies, pal, you're the best ♪♪ 我爱你 胜过胸口 ♪
+♪ I love you more than the lightning bolt ♪♪ 那闪电胸章 ♪
+♪ I wear on my chest ♪♪ 若你难过心伤... ♪
+♪ If you're ever sad... ♪♪ 我会鲜花捧上 ♪
+♪ I'll bring you flowers ♪♪ 女高音也该算进超能力 ♪
+♪ And you can list soprano as one of your powers ♪- ♪ 若你一时心伤 ♪  - ♪ 在我沙发上 ♪
+- ♪ If you're ever broke ♪ - ♪ I've got the cash ♪- ♪ 钞票正闲躺 ♪  - ♪ 恭候你挥扬 ♪
+- ♪ On my couch ♪ - ♪ You're welcome to crash ♪♪ 若你缺人帮忙 ♪
+♪ And if you ever need a hand ♪♪ 我会瞬间闪来 ♪
+♪ I'll be there in a flash ♪-巴里  -挺有趣的啊
+- Barry! - That was funny.♪ 我是你的超级...  ♪
+♪ I'm your super... ♪♪ 有话外音嘛 ♪
+♪ That has a double meaning ♪♪ 朋友 ♪
+♪ Friend ♪好久不见 朋友
+Hello, my friend.你我两家
+It will be a cold day in hell喜结连理前 必有场血雨腥风
+before our daughter marries any son of yours.对 血雨腥风
+Like he said. A cold, cold day.看来咱们不谋而合
+You took the words right out of my mouth.不是吧
+Come on.停火
+Stop!巴里
+Barry!天呐
+Oh, my God.!-怎么了  -他们不行了
+- What's wrong? - I think we're losing them.-你有办法救他们吗  -我不知道哪里出问题
+- Can you stop it? - Not if I don't know why.怎么办 
+What are we gonna do?一定要赶去他们的世界
+We need to go to whatever world they're in.这怎么去
+How are we gonna do that?他说如果我们真心爱他们
+Look, he said, if we loved them enough不管在哪儿 都能赶去救他们
+that we could save them, wherever they are.西斯科 用震波送我们去
+Cisco, you can vibe us there.怕是做不到吧
+I don't think it works that way.你带我去过神速力
+You sent me into the Speed Force.送巴里和沃利去过未来
+You sent Barry and Wally into the future.-这次一样  -她说什么呢
+- You can do this too. - What is she talking about?-震波是啥  -说来话长
+- What's a vibe? - I'll explain later.行吧 抓着我肩膀
+Come on, just... grab on to my shoulders.希望能成吧
+Let's hope this works.巴里 巴里...
+Barry, Barry...卡拉...
+Kara...巴里
+Barry!卡拉
+Kara!-别死  -不要
+- Oh, no. - No.是我啊
+Hey, it's me.是爱瑞斯 我来了
+It's Iris, I'm here. Hi.醒醒 我会救你出去的
+Stay with me. I'm gonna get you out.没时间了
+There's no time.我们得赶紧走
+We have to go.赶紧救他们出去
+We have to get them out!醒醒 巴里
+Come on, Barry. Barry!不要
+No!我瞒着你是我不好
+I'm so sorry I lied to you.我原谅你了
+I forgive you.我爱你
+I love you.巴里 坚持住 你会没事的
+No, Barry, Barry, you're gonna be okay.不
+No.我爱你
+I love you.爱瑞斯
+Iris?蒙-艾尔
+Mon-El?他们回来了
+They're back!太好了 热烈欢迎
+Bravo! Round of applause!忍不住鼓掌 太赞了
+Standing O. That was so good!这剧我喜欢
+I loved it. That was a hell of a show.你们...
+And you two...你们的爱还真是固若金汤
+I guess your love really was strong enough after all.简直是精彩绝伦
+Beautiful.大兄弟 你怎么逃出来的
+Man, how did you get out of the cell?西斯科 你真觉得那牢房
+Cisco, do you really think that cell能困住我吗
+is gonna just, like, hold me?所以这是... 发生了什么
+No, I'm sorry... what's going on?为什么这么做
+Why did you do this to us?因为我相信你们是正直的人
+I did it because I believe in the good guys.我们初次见面就说了
+I told you when we first met.要给你们好好上一课
+It was to teach all of you a lesson.我眼观世界
+'Cause I see everything,看到了两个人...
+and I saw two people...承受着心碎之苦
+with two broken hearts.所以你说的课是...
+So the lesson was...是爱啊 超级少女
+Love, Supergirl.爱的意义是...
+Love is about...等待他人的救赎
+letting yourself be saved.爱并不仅仅是帮助他人
+It's not just about saving other people.虽然你们都是超级英雄
+Even if you are superheroes.总之 非常抱歉 给你们制造了不少麻烦
+Anyway, I'm sorry that I had to, like, mess with you a little bit.我只是想让你们进入自己的角色
+I was just trying to get you to play the game,在音乐剧里歌唱舞蹈
+do the song and dance.你是从另外一个...
+Are you, like, from another...多元地球... 宇宙 来的吗
+Earth-multi-verse... universe, something?是啊 你...
+Yeah, you...我说了你们也不会懂的
+you wouldn't even understand where I come from.那就这样了吗
+Wait, I'm sorry, that's it?你就是为了给我们上一课吗
+You're just gonna teach somebody else a lesson?对 这就是我的职责
+Yeah, that's exactly what I'm gonna do♪ 想想你的好伙伴 ♪
+♪ Think of your fellow man ♪♪ 帮助他渡过难关 ♪
+♪ Lend him a helping hand ♪♪ 爱之窗 心上开一扇 ♪
+♪ Put a little love in your heart ♪所以摆明了说
+Wait, so, let me get this straight.你们被人摆了一道 他叫...
+You got whammied by some guy named...音乐大师
+Music Meister.我去 巴里 真想花钱
+Damn, Barry, I'd have paid good money看你唱歌跳舞的样子
+to see you singing and dancing.想的美
+No.他不答应你
+Well, he's holding out on you因为他唱歌好听爆了
+because Barry has an amazing voice.-真的  -并没有
+- He does! - Uh-uh.我真的听过他唱歌
+I've actually seen him sing.真的吗
+What? You have?你怎么不录个像啊
+How have we not made a GIF of that?讲真 唱得好的可不止我一个
+Well, technically, I'm not even the only one here who can sing.多谢夸奖 小巴
+Thank you, B.A.什么啊 我是说卡拉
+What? I was talking about Kara.等等... 你也会唱歌
+Wait, shh... oh, you too?卡拉 她当然会唱了
+Kara. Of course Kara can sing.毕竟她是超级少女
+Well, her name is Supergirl.所以她无所不能
+It's kind of implied, right?我们该回去了
+Well, we better be getting going.我答应卡拉姐姐会把她安全带回去的
+I promised Kara's sister we'd get her back in one piece.没有你们的帮助真的做不到
+We couldn't have done this without you.-谢谢你们  -也谢谢你
+- Thank you. - Thank you.你俩如何
+How are you guys doing?应该没事了
+Yeah, I think we'll be okay.可你要是再敢骗我
+Although, if you lie to me again,我就把你压到五行山下永世不得翻身
+I will drop a mountain on you.你是说笑吧
+Wow. You mean figuratively?-我认真的  -好吧
+- No, I mean, geologically. - Okay.那你们呢
+What about you guys?再说吧
+We'll see.我搬去西斯科家这段时间你什么都没搬啊
+You didn't change anything when I moved in with Cisco.我不能这么做
+I, um, couldn't bring myself to do it.过去的三年 我们经历了太多太多
+You know, we've been through a lot these last three years,但是...
+but, um...怎么就被困在音乐剧里了
+getting stuck in a musical?音乐大师...
+Music Meister...说什么剧都有可能
+said that, you know, it could've been anything,我创造了那个世界...
+that I created that world because...因为你是那个观众
+You were watching them.是因为我们的爱
+Because of us.我母亲曾说 音乐剧拥有一种
+My mom used to always say that musicals have the power治愈一切的力量
+to make everything better.那它有治愈你吗
+Did it work?♪ 不知一天会如何展开 ♪
+♪ Can't say how the days will unfold ♪♪ 不知未来会如何变化 ♪
+♪ Can't change what the future may hold ♪♪ 但我要你与我同在 ♪
+♪ But I want you in it ♪♪ 每一分 每一秒 ♪
+♪ Every hour, every minute ♪♪ 这世界也许... ♪
+♪ This world can race by... ♪♪ 节奏太快 ♪
+♪ Far too fast ♪♪ 难以想象... ♪
+♪ Hard to see... ♪♪ 过去的点点滴滴 ♪
+♪ While it's all flying past ♪♪ 但现在已明了 ♪
+♪ But it's clear now ♪♪ 当你站在我面前 ♪
+♪ When you're standing here now ♪♪ 我注定要成为 ♪
+♪ I am meant to be ♪♪ 永远在你身边的那个人 ♪
+♪ Wherever you are next to me ♪♪ 我只想要 ♪
+♪ All I want to do ♪♪ 回到你的身边 ♪
+♪ Is come runnin' home to you ♪♪ 回到你的身边 ♪
+♪ Come runnin' home to you ♪♪ 用我的全身心发誓 ♪
+♪ And all my life, I promise to ♪♪ 永远伴你左右 ♪
+♪ Keep runnin' home to you ♪♪ 永远伴你左右 ♪
+♪ Keep runnin' home to you ♪♪ 我也能够发现 ♪
+♪ And I could see it ♪♪ 从最开始的开始 起点的起点 ♪
+♪ Right from the start, right from the start ♪♪ 你一直都是我 ♪
+♪ That you would be ♪♪ 黑夜里的光亮 黑夜里的光亮 ♪
+♪ Be my light in the dark, light in the dark ♪♪ 噢 你给我... ♪
+♪ Oh, you gave me... ♪♪ 除了爱你外 ♪
+♪ No other choice ♪♪ 无他的选择 ♪
+♪ But to love you ♪♪ 我只想要 ♪
+♪ All I want to do ♪♪ 回到你的身边 ♪
+♪ Is come runnin' home to you ♪♪ 回到你的身边 ♪
+♪ Come runnin' home to you ♪♪ 用我的全身心发誓 ♪
+♪ And all my life I promise to ♪♪ 永远伴你左右 ♪
+♪ Keep runnin' home to you ♪♪ 永远伴你 ♪
+♪ Keep runnin' home ♪♪ 在你左右 ♪
+♪ Home to you ♪♪ 不知一天会如何展开 ♪
+♪ Can't say how the days will unfold ♪♪ 不知未来会如何变化 ♪
+♪ Can't change what the future may hold ♪♪ 但我要你与我同在 ♪
+♪ But I want you in it ♪♪ 每一分 每一秒 ♪
+♪ Every hour, every minute ♪爱瑞斯·韦斯特
+Iris West,你愿意嫁给我吗
+will you marry me?我愿意
+Yes.我愿意
+Yes.</string>
+                                <color key="textColor" systemColor="labelColor"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="Q49-iL-J1I" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="DWA-gK-hfP"/>
+                            <constraint firstItem="Q49-iL-J1I" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="NZG-cq-gLH"/>
+                            <constraint firstItem="Q49-iL-J1I" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" constant="64" id="edK-fY-H7m"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="pMp-Px-WcX" secondAttribute="trailing" id="qJ9-YI-aU3"/>
+                            <constraint firstItem="pMp-Px-WcX" firstAttribute="top" secondItem="Q49-iL-J1I" secondAttribute="bottom" id="sWp-bG-5Qk"/>
+                            <constraint firstItem="pMp-Px-WcX" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="tIO-Gm-cEs"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="pMp-Px-WcX" secondAttribute="bottom" id="tyD-ct-VQh"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="0zV-ii-Rdq"/>
+                    <connections>
+                        <outlet property="player" destination="Q49-iL-J1I" id="HcS-BC-VOS"/>
+                        <outlet property="textContent" destination="pMp-Px-WcX" id="XYJ-Ko-EGZ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="920" y="-17.061611374407583"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="yI6-E0-SMW">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="jrr-h0-wMK" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="2KP-Gg-JfP">
+                        <rect key="frame" x="0.0" y="47" width="390" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="Kms-gb-peS"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="1Wh-4z-6NW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-9.2307692307692299" y="-17.061611374407583"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="labelColor">
+            <color red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
